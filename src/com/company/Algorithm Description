@@ -1,0 +1,9 @@
+Insertion: Insertion is the most basic algorithm since it plainly fills the array, the size of which is determined by the user. It finds the size of the array and will enact a
+    for loop that will loop the amount of times that is equal to the array length. It will then insert the integer into whatever index corresponds with whatever cycle of the for 
+    loop is on.
+
+Search: This one ask the user for a number to look for, it will then start at the beginning of the array and look at each index in a linear fashion until it finds that number. If 
+    there are duplicates it just return the position of which ever one it found first.
+    
+Deletion: Ask the user to enter an interger, it then preforms a search of the array until it founds its target and the deletion is simply replacing it with the number indexed to 
+    right of it, and then that number that replaces the deleted element is the replace by the element to the right of it and so on until the end of the array is found.
