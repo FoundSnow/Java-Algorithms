@@ -1,0 +1,28 @@
+Data Structures:
+  Stack ( array (ar) or linked list (ll) )
+  Queue ( ar or ll)
+  Priority Queue ( ordered  ar)
+
+Sorts:
+  Bubble
+  Selection
+  Insertion
+  Shellsort
+  Quicksort
+  Mergesort
+  Heapsort
+  
+Red-Black Bianry Tree Rules:
+  1) Every node is either black or red
+  2) root is always black
+  3) if a node is red, children must be black ( converse isn't neccisarrly true)
+  4) Every path from the root to a leaf, or to a null child, must contain the same number of black nodes
+  
+  
+Binary Trees:
+  tree consist of nodes connected by edges
+  tree is a type of graph ( unweighted and weighted graphs)
+  adtvantges of a linked list and ordered array since search quickly like array and easliy insert and delete items like a linked list
+  
+Recursion:
+  Method calls itself can be much more efficient and simple than for and while loops that repeaditly call the function.
