@@ -1,7 +1,7 @@
 Data Structures:
-  Stack ( array (ar) or linked list (ll) )
-  Queue ( ar or ll)
-  Priority Queue ( ordered  ar)
+  Stack ( array (ar) or linked list (ll) ) (last in first out)
+  Queue ( ar or ll) ( first in first out)
+  Priority Queue ( ordered  ar) ( item with highest priority) 
 
 Sorts:
   Bubble
